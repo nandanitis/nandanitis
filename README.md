@@ -4,7 +4,8 @@
  <img align="right" alt="Coding" width="300"  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
 
-### <div align="center"> MERN Stack developer and Blockchain enthusiast 👨‍💻 Pursing 3rd year BE in BMSCE 🚀</div>  
+### <div align="center"> MERN Stack developer and Blockchain enthusiast 👨‍💻 Pursing 3rd year BE in BMSCE 🚀</div> 
+
   
 
 - 🤝I’m looking for help with Internships  
@@ -17,6 +18,10 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=nandanitis&&style=flat-square" align="center" />
+</div>  
   
 
 <br/>  
@@ -111,10 +116,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nandanitis&&style=flat-square" align="center" />
-</div>  
-  
+ 
 
 <br/>  
 
